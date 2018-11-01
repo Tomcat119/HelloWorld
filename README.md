@@ -6,11 +6,11 @@ add some words
 
 再添加一些字符“hhshdasd”
 
-<<<<<<< HEAD
+
 add agin
 
 add some
-=======
+
 add some world
 hello spark 
 
@@ -26,4 +26,3 @@ add some word !
 git commit -a
 
 git push -u origin master
->>>>>>> origin/master
