@@ -17,3 +17,7 @@ https://github.com/Tomcat119/HelloWorld.git
 
 add some word !
 
+
+git commit -a
+
+git push -u origin master
